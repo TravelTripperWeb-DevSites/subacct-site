@@ -10,3 +10,9 @@ main:
   - page_id: _pages/gallery.html
   - page_id: _pages/contact.html
     target: blank
+  - folder: false
+    target: blank
+    label_localized:
+      en: Google
+    url_localized:
+      en: https://www.google.com
