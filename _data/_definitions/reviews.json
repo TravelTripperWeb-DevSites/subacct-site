@@ -5,5 +5,8 @@
    },
    "url": {
      "type": "url"
-   }
+   },
+  "order": {
+    "type": "order"
+  }
 }
