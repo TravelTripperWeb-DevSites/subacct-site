@@ -4,6 +4,10 @@
     "_template": "html"
   },
   {
-    "_template": "2_col"
+    "_template": "2_col",
+    "advanced_options": {
+    },
+    "col1_type": "html",
+    "col2_type": "image"
   }
 ]
