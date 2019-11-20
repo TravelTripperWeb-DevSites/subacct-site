@@ -8,6 +8,9 @@ main:
   - page_id: _pages/rooms.html
   - page_id: _pages/offers.html
   - page_id: _pages/gallery.html
+    target: ''
+    label_localized:
+      en: Galleries
   - page_id: _pages/contact.html
     target: blank
   - folder: false
