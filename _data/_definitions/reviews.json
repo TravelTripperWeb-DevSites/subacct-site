@@ -4,6 +4,7 @@
     "type": "rich_text",
     "label": "Review Content!"
    },
+   
    "url": {
      "type": "url"
    },
