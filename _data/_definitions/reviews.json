@@ -2,7 +2,8 @@
   "name": {},
   "content": {
     "type": "rich_text",
-    "label": "Review Content!"
+    "label": "Review Content!",
+    "required": true
    },
    
    "url": {
