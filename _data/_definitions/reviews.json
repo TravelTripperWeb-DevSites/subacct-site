@@ -1,7 +1,8 @@
 {
   "name": {},
   "content": {
-    "type": "rich_text"
+    "type": "rich_text",
+    "requiretd": true
    },
    "url": {
      "type": "url"
