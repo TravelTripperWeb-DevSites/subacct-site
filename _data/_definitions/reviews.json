@@ -1,7 +1,7 @@
 {
   "name": {},
   "content": {
-    "type": "rich_text",
+    "type": "text",
     "label": "Review Content!"
    },
    "url": {
