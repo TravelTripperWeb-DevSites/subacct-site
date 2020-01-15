@@ -1,0 +1,109 @@
+{
+    "name":
+    {
+      "required": true,
+      "localizable": true      
+    },
+    "sub_title":
+    {
+      "localizable": true,
+      "required": true
+    },
+    "featured": {
+      "type": "boolean"
+    },
+    "category": {
+      "type": "enum",
+      "multiple": true,
+      "options": [ "Sight Seeing Stop",
+        "Monument",
+        "Art Gallery",
+        "Museum",
+        "Activity",
+        "Amusment Park",
+        "Bowling Alley",
+        "Campground",
+        "Casino",
+        "Movie Theater",
+        "Public Garden",
+        "Park",
+        "Stadium",
+        "Zoo",        
+        "Food and Drink",
+        "Bakery",
+        "Bar",
+        "Cafe",
+        "Dining",
+        "Liquor Store",
+        "Meal Delivery",
+        "Meal Takeaway",
+        "Restaurant",        
+        "Nightlife",
+        "Music Venue",
+        "Night Club",
+        "Theater",        
+        "Health",
+        "Beauty Salon",
+        "Gym",
+        "Hair Care",
+        "Hospital",
+        "Pharmacy",
+        "Spa",        
+        "Shop",
+        "Bike Store",
+        "Book Store",
+        "Clothing Store",
+        "Department Store",
+        "Jewelry Store",
+        "Shoe Store",
+        "Shopping Mall",        
+        "Convenience",
+        "Laundry",
+        "Post Office",      
+        "Transport",
+        "Airport",
+        "Traxi Stand",
+        "Train Station",
+        "Transit Station",
+        "Subway Station",
+        "Place of Worship",
+        "Church",
+        "Hindu Template",
+        "Mosque",
+        "Synagogue",
+        "Cemetery",
+        "University"]
+    },
+	 "seo_title":
+    {  
+      "label": "Seo Title",
+      "localizable": true
+    }, 
+	 "seo_description":
+    {  
+      "label": "Seo Description",
+      "localizable": true
+    }, 
+    "website_url":
+    {  
+      "label": "External website url"
+    }, 
+    "description":
+    {
+       "label": "Short Description",
+       "type": "richtext",
+       "localizable": true       
+    },   
+    "image":
+    { 
+      "type": "image",
+	    "label": "Attractions Image"
+    },
+    "location": {
+      "type": "location"
+    },
+    "order": 
+    { 
+      "type": "order"
+    }
+}
